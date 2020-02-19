@@ -19,7 +19,7 @@ And then open `./dist/index.html` in ie11.
 
 get-own-property-symbols is included within the
 [webcomponentsjs](https://github.com/webcomponents/polyfills/tree/master/packages/webcomponentsjs)
-polyfills for custom elements. To property use it in an app, it needs to
+polyfills for custom elements. To properly use it in an app, it needs to
 be a script included in the `head` of the document.
 
 If that app also uses core-js, which it would if it is using
